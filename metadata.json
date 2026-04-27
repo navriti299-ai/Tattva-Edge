@@ -1,0 +1,14 @@
+{
+  "name": "Tattva Campus",
+  "description": "A premium student-only platform for Indian college students to help each other, earn, buy/sell, and grow together.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "authentication",
+    "database",
+    "real-time-communications"
+  ]
+}
